@@ -1,7 +1,9 @@
 function App() {
   return (
     <div className="App">
-      <h1>ini halaman utama</h1>
+      <h1>ini halaman </h1>
     </div>
   );
 }
+
+export default App;
